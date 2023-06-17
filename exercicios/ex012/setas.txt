@@ -1,0 +1,8 @@
+Seta para a direita: &rarr; ou &#8594;
+Seta para a esquerda: &larr; ou &#8592;
+Seta para cima: &uarr; ou &#8593;
+Seta para baixo: &darr; ou &#8595;
+Seta para a direita dupla: &rArr; ou &#8658;
+Seta para a esquerda dupla: &lArr; ou &#8656;
+Seta para cima dupla: &uArr; ou &#8657;
+Seta para baixo dupla: &dArr; ou &#8659;
